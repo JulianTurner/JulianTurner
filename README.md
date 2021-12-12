@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianTurner
-- 👀 I’m interested in software
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in software 
+- 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on whatever comes to me
 
 
